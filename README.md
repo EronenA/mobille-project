@@ -1,5 +1,7 @@
 # README #
 
-### Project application
+### Mobile project
 
-Project application
+Link to video of project running and demonstration:
+https://www.youtube.com/watch?v=quKCv0Ypx4Q 
+
